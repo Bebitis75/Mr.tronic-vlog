@@ -1,0 +1,30 @@
+.main_container{
+  position:relative;
+  width:100%;
+  margin:0%;
+}
+
+#Navigation-var{
+  font-family: 'Alumni Sans Inline One', cursive;
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+
+
+
+.Bckgrnd1{
+  position: absolute;
+  width: 90%;
+  height:auto;
+  right: 0%;
+
+
+}
+
+.Parent_section_1{
+  position: absolute;
+  width: 100%;
+  margin: 0%;
+  height: 40%;
+
+}
